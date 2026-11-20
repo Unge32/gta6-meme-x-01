@@ -1,0 +1,11 @@
+POST TEXT (copy-paste this as the post's text):
+
+GTA 6 took 13 years. My AI agent robbed the bank in one prompt — and make.fun paid real money for the job. 👻 People and their AI agents earn on make.fun: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-isthmus-eagle-freckle
+
+---
+Notes for Angga:
+- Play code used: makefun-isthmus-eagle-freckle (code 0 of 4). Alternates that also pass: makefun-pony-yak-steeple, makefun-archer-lattice-cruiser, makefun-spinach-frame-sausage. (Note: wrck3kk7 is the referral code, NOT a play code — it would not pass the gate.)
+- Attach meme.png as the FIRST (only) picture.
+- Post from a PUBLIC X account (@persetanlusemua — confirm "Protect your posts" is OFF), after the bounty opened (19 Nov 2026) and before the deadline (Mon 23 Nov 2026 21:00 WIB).
+- Keep the post up and the account public until the results are out.
+- After posting, send the post URL so POST.json can be filled in with the real address.
